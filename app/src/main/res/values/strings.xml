@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">project1</string>
+    <string name="logo_decr">Logo PJWSTK</string>
+    <string name="nameOfApl">OweFriend</string>
+    <string name="addButton">ADD</string>
+    <string name="textVievImie">Imie</string>
+    <string name="textVievNazwisko">Nazwisko</string>
+    <string name="textVievDlug">Dlug</string>
+    <string name="buttonSimulation">SIMULATION</string>
+    <string name="buttonEdit">EDIT</string>
+    <string name="buttonAdd">ADD</string>
+    <string name="buttonStart">START</string>
+    <string name="buttonStop">STOP</string>
+    <string name="buttonReset">RESET</string>
+    <string name="simulation">Simulation</string>
+    <string name="prowizja">Prowizja</string>
+    <string name="predkosc">Predkosc</string>
+</resources>
